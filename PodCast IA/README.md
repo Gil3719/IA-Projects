@@ -1,6 +1,9 @@
 PodCast do Projeto DIO Criando um Podcast com IAs Generativas  
 
-**Podcast focado em BackEnd**
+**Podcast focado em BackEnd**  
+
+![alt text](https://github.com/Gil3719/IA-Projects/blob/main/PodCast%20IA/pod%20knight.jpg)
+
 ***
 **Ferramentas utilizadas**:  
 chatGPT  
